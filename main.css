@@ -9,23 +9,26 @@ body {
 
 h1{
   color:red;
-  padding:300px, 100px, 100px, 100px;
-
+  padding:100px, 100px, 100px,500px;
+  font-family:URW Chancery L;
+  font-size:40px;
 }
 
 h3{
   color:green;
-  position:relative:
-  padding:300px, 0px, 0px, 400px;
-}
-
-#a01{
-  padding:100px, 100px, 100px,100px;
   position:relative;
+  font-family:Apple Chancery;
+  padding:300px, 0px, 0px, 400px;
+  font-size:30px;
+}
+#e01{
+  position:relative;
+  padding-left:50px;
 
 }
 
-#a02{
-  color:green;
-  padding:100px,100px,100px,100px;
+#e02{
+  position:absolute;
+  padding-left:520px;
+  margin-bottom:300px;
 }

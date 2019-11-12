@@ -6,6 +6,20 @@ body {
   padding: 30px 20px;
 }
 
+h1{
+  font-family:American Typewriter, serif;
+  font-size:70px;
+  color:Lime ;
+}
+
+h3{
+  color:lime;
+  position:relative;
+  font-family:Apple Chancery;
+  padding:300px, 0px, 0px, 400px;
+  font-size:30px;
+}
+
 #b01{
   position:relative;
   padding:100px, 0px 0px 400px;
